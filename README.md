@@ -3,6 +3,8 @@
 A bootcamp project designed to look up a California city's current
 temperature and UV index, then display a sun-protection reminder.
 
+<img width="798" height="545" alt="Cali Complex API" src="https://github.com/user-attachments/assets/ad050fe9-c835-4558-895a-7dddf7044117" />
+
 ## Project Status
 
 Work in progress. The API request flow is implemented, but an API
